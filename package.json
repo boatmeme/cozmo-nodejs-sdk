@@ -1,0 +1,9 @@
+{
+  "name": "cozmo-sdk-nodejs",
+  "version": "0.1.0",
+  "description": "Node.js SDK for Anki's Cozmo",
+  "main": "index.js",
+  "repository": "git@github.com:boatmeme/cozmo-sdk-nodejs.git",
+  "author": "Jonathan Griggs <jonathan.griggs@gmail.com>",
+  "license": "MIT"
+}
