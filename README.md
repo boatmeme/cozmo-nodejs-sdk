@@ -1,2 +1,2 @@
-# cozmo-sdk-nodejs
-Node.js SDK for Anki's Cozmo
+# cozmo-nodejs-sdk
+Anki Cozmo Node.js SDK
