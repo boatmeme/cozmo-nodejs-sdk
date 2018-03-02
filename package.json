@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "adbkit": "^2.11.0",
-    "debug": "^3.1.0"
+    "debug": "^3.1.0",
+    "struct-fu": "^1.2.0"
   }
 }

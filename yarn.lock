@@ -1058,6 +1058,10 @@ strip-json-comments@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
 
+struct-fu@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/struct-fu/-/struct-fu-1.2.0.tgz#a40b9eb60a41bb341228cff125fde4887daa85ac"
+
 supports-color@4.4.0:
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-4.4.0.tgz#883f7ddabc165142b2a61427f3352ded195d1a3e"
